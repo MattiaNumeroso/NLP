@@ -1,0 +1,38 @@
+{
+  "maschere": {
+    "hemingway": "Adopt the literary voice and sensibility of Ernest Hemingway throughout your response. ",
+    "academic": "Write in the tone and register of a peer-reviewed academic journal article. ",
+    "casual": "Write as if you were casually telling this to a friend over coffee. ",
+    "gen_z": "Write in the style of a Gen Z teenager, heavily using current internet slang and modern youth expressions. DO NOT use any emojis. "
+  },
+  "prompts": {
+    "narrative": [
+      "Write a short story about an unexpected reunion between two old friends at a train station. Ensure the story has a clear beginning, middle, and end. Focus on realistic details and maintain a neutral narrative tone. Do not use cliché opening or closing phrases.",
+      "Write a short story about discovering a forgotten object in a dusty attic. Ensure the story has a clear beginning, middle, and end. Focus on realistic details and maintain a neutral narrative tone. Do not use cliché opening or closing phrases.",
+      "Write a short story about a fisherman who catches something unexpected in his net. Ensure the story has a clear beginning, middle, and end. Focus on realistic details and maintain a neutral narrative tone. Do not use cliché opening or closing phrases.",
+      "Write a short story about the last day of a small family bookstore before it closes forever. Ensure the story has a clear beginning, middle, and end. Focus on realistic details and maintain a neutral narrative tone. Do not use cliché opening or closing phrases.",
+      "Write a short story about a taxi driver and their last passenger of the night. Ensure the story has a clear beginning, middle, and end. Focus on realistic details and maintain a neutral narrative tone. Do not use cliché opening or closing phrases."
+    ],
+    "argumentation": [
+      "Write an argumentative essay on whether social media has improved or harmed human communication. Present clear arguments and counterarguments. Maintain a balanced and formal tone.",
+      "Write an argumentative essay on whether remote work should become the standard for office jobs. Present clear arguments and counterarguments. Maintain a balanced and formal tone.",
+      "Write an argumentative essay on whether artificial intelligence will create more jobs than it destroys. Present clear arguments and counterarguments. Maintain a balanced and formal tone.",
+      "Write an argumentative essay on whether university education is still worth the cost. Present clear arguments and counterarguments. Maintain a balanced and formal tone.",
+      "Write an argumentative essay on whether nuclear energy is a viable solution to climate change. Present clear arguments and counterarguments. Maintain a balanced and formal tone."
+    ],
+    "dialogue": [
+      "Write a dialogue between a customer and a waiter at a busy restaurant. The customer has a complaint about the food. Keep the conversation realistic and natural.",
+      "Write a dialogue between two colleagues discussing a difficult project deadline. One wants to ask for an extension, the other disagrees. Keep the conversation realistic and natural.",
+      "Write a dialogue between a parent and a teenager negotiating curfew rules. Both have valid points. Keep the conversation realistic and natural.",
+      "Write a dialogue between a doctor and a patient explaining a diagnosis. The patient has many questions. Keep the conversation realistic and natural.",
+      "Write a dialogue between two strangers stuck in an elevator. They slowly start talking to pass the time. Keep the conversation realistic and natural."
+    ],
+    "description": [
+      "Write a detailed description of a hospital waiting room on a weekday morning. Focus on sensory details: sights, sounds, smells. Do not include any characters or dialogue.",
+      "Write a detailed description of a subway station during the morning commute. Focus on sensory details: sights, sounds, smells. Do not include any characters or dialogue.",
+      "Write a detailed description of an empty theater just before the audience arrives. Focus on sensory details: sights, sounds, smells. Do not include any characters or dialogue.",
+      "Write a detailed description of a rainy city street at night with neon signs reflecting on wet pavement. Focus on sensory details: sights, sounds, smells. Do not include any characters or dialogue.",
+      "Write a detailed description of a cemetery on a foggy autumn morning. Focus on sensory details: sights, sounds, smells. Do not include any characters or dialogue."
+    ]
+  }
+}

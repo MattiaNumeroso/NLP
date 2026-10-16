@@ -1,0 +1,26 @@
+# Analisi
+pandas==3.0.1
+numpy==2.4.3
+scipy==1.17.1
+scikit-learn==1.8.0
+umap-learn==0.5.12
+joblib==1.5.3
+matplotlib==3.10.8
+seaborn==0.13.2
+stylo-metrix==0.1.7
+spacy==3.8.11
+# Modelli spaCy (non su PyPI): python -m spacy download en_core_web_sm  (e en_core_web_trf, versione 3.8.0)
+
+# Notebook
+jupyterlab==4.5.6
+ipykernel==7.2.0
+
+# Generazione testi (servono solo con le API key in .env)
+groq==1.1.1
+mistralai==2.4.0
+google-generativeai==0.8.6
+python-dotenv==1.2.2
+
+# Solo token_counter.py
+tiktoken==0.12.0
+transformers==4.53.2
